@@ -1,5 +1,5 @@
 ---
-title: Class and Style Bindings
+title: Binding cho class và style
 type: guide
 order: 6
 ---
